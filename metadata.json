@@ -1,0 +1,6 @@
+{
+  "name": "CampusPulse - Student Resource App & Blueprint",
+  "description": "Mobile-first student resource operating system, interactive prototype, and comprehensive product blueprint covering academic management, study productivity, campus community, and student wellness.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
